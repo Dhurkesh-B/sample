@@ -1,2 +1,2 @@
 # sample
-Welcome to the repo !!
+hello world!
