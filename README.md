@@ -1,2 +1,2 @@
 # sample
-hello world!
+welcome
